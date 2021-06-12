@@ -1,7 +1,7 @@
-### Volume Gesture
+### Finger Counter using MediaPipe
 
 #### Table of Contents
-- [Volume Gesture](#volume-gesture)
+- [Finger Counter using MediaPipe](#finger-counter-using-mediapipe)
   - [Table of Contents](#table-of-contents)
   - [Project Overview](#project-overview)
   - [Demo](#demo)
